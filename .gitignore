@@ -1,0 +1,19 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.vscode/
+*.dbmdl
+*.pdb
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore package directories
+packages/
+node_modules/
+
+# Ignore appsettings (you may adjust this)
+appsettings*.json
