@@ -20,10 +20,10 @@
 
 ## Getting Started
 
-- **Prerequisites
-- **.NET SDK 7.0 or later
-- **SQL Server
-- **Visual Studio 2022 or later
+## Prerequisites
+- .NET SDK 7.0 or later
+- SQL Server
+- Visual Studio 2022 or later
 
 ## How to Run the Project
 
