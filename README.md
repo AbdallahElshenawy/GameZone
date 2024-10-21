@@ -20,7 +20,7 @@
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 - .NET SDK 7.0 or later
 - SQL Server
 - Visual Studio 2022 or later
