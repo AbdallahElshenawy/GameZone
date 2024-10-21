@@ -18,13 +18,22 @@
 - **SweetAlert2** - A library used for custom alert popups to improve UX.
 - **Font Awesome** - A font and icon toolkit used for adding icons in the application.
 
+## Getting Started
+
+- **Prerequisites
+- **.NET SDK 7.0 or later
+- **SQL Server
+- **Visual Studio 2022 or later
+
 ## How to Run the Project
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/AbdallahElshenawy/GameZone.git
 2. Set up the database
+      ```bash
     Update-Database
-3. Run the application
+4. Run the application
+   ```bash
     dotnet run
 
